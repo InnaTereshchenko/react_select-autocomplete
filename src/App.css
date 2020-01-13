@@ -1,0 +1,39 @@
+.App {
+  text-align: center;
+}
+
+.select {
+  padding: 10px 5px;
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid gray;
+  outline: none;
+}
+
+.select__box {
+  display: flex;
+  justify-content: center;
+}
+
+.select:hover {
+  border: 1px solid black;
+}
+
+.select:focus {
+  border: 1px solid dodgerblue;
+}
+
+.button {
+  margin-left: 5px;
+  background-color: white;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+
+}
+
+.button:hover {
+  background-color: gray;
+  color: white;
+}
