@@ -7,3 +7,6 @@
 
 Решение:
 [DEMO LINK](https://innatereshchenko.github.io/react_select-autocomplete/)
+
+Код компонента SelectAutocomplete по [ссылке](https://github.com/InnaTereshchenko/react_select-autocomplete/blob/master/src/SelectAutocomplete.js)
+
